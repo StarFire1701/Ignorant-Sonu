@@ -1,3 +1,2 @@
-
-#First 
-This is under Intel AI.
+#First.
+-This is under Intel AI
